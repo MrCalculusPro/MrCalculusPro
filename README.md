@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrCalculusPro
-- 👀 I’m interested in software engineering 
+- 👀 I’m interested in software engineering, Machine learning and Engineering
 - 🌱 I’m currently learning python, javascript
 - 💞️ I’m looking to collaborate on any fun project
 - 😄 Pronouns: Him, He 
